@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+body{
+    background-image: url("https://www.univision.com/entretenimiento/geek/el-oscuro-origen-de-los-superheroes-y-villanos-de-comics-que-nadie-te-conto-tienen-muchos-secretos");
+    background-position: center;
+
+}
+h1{
+    font-size: 5rem;
+    color: beige ;
+    text-align: center;
+    padding: 30x ;
+    text-transform: lowercase;
+}
+.heroesdc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding:10px ;
+    gap:20px;
+}
+.heroesmarvel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+
+}
+.img{
+    transition: all .3s;
+}
+@media (min-width=600px){
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box; 
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+    body{
+        background-image: url(https://www.univision.com/entretenimiento/geek/el-oscuro-origen-de-los-superheroes-y-villanos-de-comics-que-nadie-te-conto-tienen-muchos-secretos);
+        background-position: center;
+    
+    }
+    .heroesdc{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding:10px ;
+        gap:20px;
+    }
+    .heroesmarvel{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    .img{
+        transition: all .3s;
+    }
+
+}

@@ -1,0 +1,35 @@
+{
+    "marvel": [
+      {
+        "name": "capitan america",
+        "age": 29,
+        "img":"https://oyster.ignimgs.com/wordpress/stg.ign.com/2020/12/chris-evans-expects-avengers-4-to-be-his-last-mcu-movie_ksk9.jpg",
+        "powers": [
+          "Fuerza",
+          "velocidad",
+          "agilidad",
+          "Turning tiny"
+        ]
+      },
+      {
+       "name": "capitan america",
+        "age": 29,
+        "img":"https://oyster.ignimgs.com/wordpress/stg.ign.com/2020/12/chris-evans-expects-avengers-4-to-be-his-last-mcu-movie_ksk9.jpg",
+        "powers": [
+          "Fuerza",
+          "velocidad",
+          "agilidad",
+          "Turning tiny"
+        ]
+      },
+        {
+            "name": "tony stark",
+             "age": 56,
+             "img":"https://oyster.ignimgs.com/wordpress/stg.ign.com/2020/12/the-evolution-of-iron-man-in-the-mcu.jpg",
+             "powers": [
+                "traficante de armas"
+             ]
+      }
+
+    ]
+}

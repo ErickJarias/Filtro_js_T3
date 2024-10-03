@@ -1,0 +1,134 @@
+{
+    "dc": [
+      {
+        "name": "Molecule Man",
+        "age": 29,
+        "img":"https://marvel-dc.fandom.com/wiki/Molecule_Man",
+        "powers": [
+          "Radiation resistance",
+          "Turning tiny"
+        ]
+      },
+      {
+        "name": "Madame Uppercut",
+        "age": 39,
+        "img":"https://static.wikia.nocookie.net/villains/images/1/1b/Madame_Rouge.png/revision/latest?cb=20230904231230",
+        "powers": [
+          "Million tonne punch",
+          "Damage resistance"
+        ]
+      },
+      {
+        "name": "Eternal Flame",
+        "age": 1000000,
+        "img":"https://static.wikia.nocookie.net/marvel_dc/images/a/a5/Michael_Miller_Prime_Earth_002.jpg/revision/latest?cb=20211204193938",
+        "powers": [
+          "Immortality",
+          "Heat Immunity"
+    
+        ]
+      },
+      {
+        "name": "Átomo",
+        "age": 18,
+        "img":"https://sm.ign.com/t/ign_es/screenshot/default/24-the-atom_tr82.960.jpg",
+        "powers": [
+          "tamaño subatomico",
+        "cinturon patentado"
+    ]
+      },
+      {
+        "name": "cyborg",
+        "age": 35,
+        "img":"https://sm.ign.com/t/ign_es/screenshot/default/23-cyborg_zt15.960.jpg",
+        "powers":[
+          "conectarse a computadoras"
+        ]
+      },
+      {
+        "name": "hawkgirl",
+        "age":"76",
+        "img":"https://sm.ign.com/t/ign_es/screenshot/default/22-hawkgirl_2f6c.960.jpg",
+        "powers":[
+          "tecnología de metal Nth"
+        ]
+        },
+        {
+          "name": "Starfire",
+          "age":"76",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/21-starfire_2wcn.960.jpg",
+          "powers":[
+            "cinturon patentado"
+          ]
+        },
+        {
+          "name": "boostergold",
+          "age":"24",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/19-booster-gold_cv4e.960.jpg",
+          "powers":[
+            "viajar en el tiempo"
+          ]
+        },
+        {
+          "name": "black canary",
+          "age":"31",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/18-black-canary_26tj.960.jpg",
+          "powers":["experta en artes marciales"
+        ]
+        },
+        {
+          "name": "jhon constatine",
+          "age":"71",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/16-john-constantine_3rgk.960.jpg",
+          "powers":[
+            " mago astuto"
+          ]
+        },
+        {
+          "name": "linterna verde",
+          "age":"62",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/14-kyle-rayner_bkkp.960.jpg",
+          "powers":[
+            "volar",
+            "construcciones sólidas de luz"
+          ]
+        },
+        {
+          "name": "detective marciano",
+          "age":"323",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/13-martian-manhunter_yg32.960.jpg",
+          "powers":[ 
+            "fuerza y resistencia superiores",
+            "capacidad de vuelo",
+            "visión marciana"
+        ]
+        },
+        {
+          "name": "aquaman",
+          "age":"34",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/10-aquaman_shc1.960.jpg",
+          "powers":[
+            "Adaptación acuática-anfibia",
+            "Telepatía",
+            "Dominación psiónica de la vida marina"
+          ]
+        },
+        {
+          "name": "shazam",
+          "age":"56",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/09-shazam_uznh.960.jpg",
+          "powers":["Sabiduría de Salomón",
+           "Vasto conocimiento",
+            "Fuerza de Hércules"      
+          ]
+        },
+        {
+          "name": "flash",
+          "age":"45",
+          "img":"https://sm.ign.com/t/ign_es/screenshot/default/08-barry-allen_bk19.960.jpg",
+          "powers":[
+            "súper velocidad"
+        ]
+        }
+      ]
+    }
